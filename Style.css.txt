@@ -1,0 +1,51 @@
+/*Table of content format*/
+/**First level title**/
+#TOC>ul>li {
+  color: white;
+}
+/**Second level title**/
+#TOC>ul>ul>li {
+  color: white;
+}
+/**Box border**/
+.tocify {
+  border:black;
+  }
+/**Box filling**/
+.list-group-item {
+  background-color: black;
+}
+/**Item being selected**/
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: purple;
+}
+
+/*Center heading*/
+h1 {
+  text-align: center;
+}
+/*Main text*/
+body {
+  background-color: black;
+  color: white;
+}
+/*Side note on the margin*/
+.sidenote, .marginnote { 
+  float: left;
+  clear: left;
+  margin-left: -45%;
+  width: 40%; 
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  vertical-align: baseline;
+  position: relative;
+  }
+
+/*Center image */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

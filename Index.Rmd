@@ -1,0 +1,21 @@
+---
+title: "SES and Suppression"
+author: "Last update at:"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output: 
+  html_notebook:
+    toc: true
+    toc_float: true
+    number_sections : true 
+    theme: readable
+    css: style.css
+  
+---
+
+# Theories on differences across social classes 
+
+1. Piff, P. K., Kraus, M. W., & Keltner, D. (2018). [Note](./Piff_2018/Piff_2018.nb.html)
+
+Unpacking the inequality paradox: The psychological roots of inequality and social class. In J. M. Olson (Ed.), Advances in Experimental Social Psychology (Vol. 57, pp. 53–124). Academic Press. https://doi.org/10.1016/bs.aesp.2017.10.002 
+
+
